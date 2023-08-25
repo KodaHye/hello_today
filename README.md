@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-  <img src="/uploads/1e8ca19fb433f875e3fc01dc153a3ea8/메인_페이지.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/aa27b50b-c2fd-4186-83f5-98f94146bc17" width="80%"/>
   <br />
 </div>
 
@@ -61,7 +61,7 @@
 ### 시스템 구성도
 <div align="center">
   <br />
-  <img src="/uploads/13b4a7d1d4750d37345f3b130647d15d/시스템구성도.PNG" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/96230c59-955d-4123-bb61-e0a93930cf57" width="80%"/>
   <br />
 </div>
 
@@ -72,7 +72,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/da64ccea7f7dfb802c51e69ff2494d5f/260914191-7270b587-f271-4b7f-be22-6c857b48268e.png" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/9f3320da-a77c-4413-ac9d-ecb21b0a7033" width="80%"/>
   <br />
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/56af1d17106171f57d7652bf423a2579/소셜로그인.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/7f542831-fb98-4905-adcc-826594c54051" width="80%"/>
   <br />
 </div>
 
@@ -117,7 +117,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/bb87b6ea8c5398441d5568f77e8dee3c/메인화면_-_루틴_선택.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/c572d26b-76be-4edf-a8c8-cc52e50e6676" width="80%"/>
   <br />
 </div>
 
@@ -130,7 +130,7 @@
 <br>
 <div align="center">
   <br />
-  <img src="/uploads/5692db82f012329db6c8f688d9cc0fe0/루틴_인증_조회.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/c74bd021-4489-42b5-b1bc-6dee6dd0665a" width="80%"/>
   <br />
 </div>
 
@@ -143,7 +143,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/62bcaaf9de9bb948fbbebb149362f28f/마지막_루틴_인증.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/046887cf-4d48-43cd-9cb4-1b0b8d5b5222" width="80%"/>
   <br />
 </div>
 
@@ -155,7 +155,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/9928f44482e7c4477f010b74ad1c87e1/260926337-11b85f1e-ef9b-40e4-9293-ec010d6fe43c.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/8d6fbe67-cc49-4714-9071-6d90649f2c6a" width="80%"/>
   <br />
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/97915a0d1c6d772b3b2210d0c4883184/261219365-e7cddab8-2782-4c84-8b69-fcfb4047dd3e.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/c36c522e-af63-4df1-a1cc-585ebee0896c" width="80%"/>
   <br />
 </div>
 
@@ -185,7 +185,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/373bcf7fd70fb8150df52ca4755339af/마이_페이지.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/0616af33-e5c1-4596-b369-5598bb079bf5" width="80%"/>
   <br />
 </div>
 
@@ -201,7 +201,7 @@
 
 <div align="center">
   <br />
-  <img src="/uploads/89519e6fc68c4e68e451ec781232e437/사용자_검색.gif" width="80%"/>
+  <img src="https://github.com/KodaHye/hello_today/assets/72763127/effbcd36-0a7e-4237-a8a6-03431c4df464" width="80%"/>
   <br />
 </div>
 

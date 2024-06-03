@@ -8,7 +8,7 @@
  <h3><b>오늘도, 안녕</b></h3>
   무기력한 기분을 이겨내고, 불규칙한 생활을 개선하기 위해 규칙적인 생활 루틴을 체득하고,<br> 서로에 대한 응원을 통해 신체/정신 건강을 관리할 수 있도록 돕는 서비스<br>
   삼성 청년 SW 아카데미 - <b>우수 프로젝트 🏆</b><br><br>
-  2023.07.04 ~ 2022.08.18
+  2023.07.04 ~ 2023.08.18
   <br><br>
 
 [Notion](https://intelligent-dracopelta-0c4.notion.site/8-976f884945bd4067b43a99830e8576bf?pvs=4) | [UCC](https://www.youtube.com/watch?v=nxf6m3u2FAc)
